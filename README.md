@@ -14,7 +14,7 @@ The elytra need to have the true glider name to get the textures :
 - Wings of First Flight
 - Wings of Golden Flight
 - Wings of Shimmering Galaxy
-- Wings of the Stormrider
+- Wings of the Stormstrider
 
 ## Credits
 
